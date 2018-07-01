@@ -25,7 +25,7 @@ Uso de Babel CLI para la traspilacion de codigo bajo estandares ES6 y lograr la 
 
 ## Google API Key
 	
-	Es importante crear una API
+	Es importante crear una API desde la consola de Google Developers para poder usar y trackear informacion del consumo y otras metricas
 
 ## Créditos
 - [David E Lares S](https://twitter.com/@davidlares3)
